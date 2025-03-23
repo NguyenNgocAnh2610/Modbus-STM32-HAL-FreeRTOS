@@ -1,0 +1,2 @@
+- Đã build thử trên modbus rtu, nhưng chưa chạy thử
+- Build modbus tcp bị lỗi, có thể phải tạo lại project chứ không build trực tiếp trên project cũ được
